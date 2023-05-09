@@ -24,3 +24,11 @@ https://www.db-fiddle.com/f/5KPZJYupJz3scab3jBHHFF/4
 MOODLE
 
 https://www.db-fiddle.com/f/b7YsBRQQvvhNfu5rXko6Vf/0
+
+ARTURO JAVIER SANCHEZ ANGELES
+32NRA02
+09/052023
+actividad 6
+
+LINK: 
+
