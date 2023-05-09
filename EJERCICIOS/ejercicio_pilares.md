@@ -14,3 +14,13 @@ paso:3
 
 
 https://www.db-fiddle.com/f/5KPZJYupJz3scab3jBHHFF/2
+
+
+JOIN
+
+https://www.db-fiddle.com/f/5KPZJYupJz3scab3jBHHFF/4
+
+
+MOODLE
+
+https://www.db-fiddle.com/f/b7YsBRQQvvhNfu5rXko6Vf/0
