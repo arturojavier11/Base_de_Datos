@@ -32,3 +32,5 @@ actividad 6
 
 LINK: 
 
+EJERCICIOS 11/05/2023
+https://www.db-fiddle.com/f/5KPZJYupJz3scab3jBHHFF/5
