@@ -34,3 +34,7 @@ LINK:
 
 EJERCICIOS 11/05/2023
 https://www.db-fiddle.com/f/5KPZJYupJz3scab3jBHHFF/5
+
+
+actividad 7
+https://www.db-fiddle.com/f/b7YsBRQQvvhNfu5rXko6Vf/2
