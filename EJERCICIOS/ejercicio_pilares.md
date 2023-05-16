@@ -44,3 +44,5 @@ https://www.db-fiddle.com/f/b7YsBRQQvvhNfu5rXko6Vf/2
 
 
 SUBCONSULTAS
+
+https://www.db-fiddle.com/f/b7YsBRQQvvhNfu5rXko6Vf/3
