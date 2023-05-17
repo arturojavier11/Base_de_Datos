@@ -46,3 +46,13 @@ https://www.db-fiddle.com/f/b7YsBRQQvvhNfu5rXko6Vf/2
 SUBCONSULTAS
 
 https://www.db-fiddle.com/f/b7YsBRQQvvhNfu5rXko6Vf/3
+
+
+
+
+
+MOODLE
+
+9. Operaciones en una Base de Datos
+
+https://www.db-fiddle.com/f/b7YsBRQQvvhNfu5rXko6Vf/4
