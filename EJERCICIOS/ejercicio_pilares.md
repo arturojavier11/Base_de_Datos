@@ -37,6 +37,7 @@ https://www.db-fiddle.com/f/5KPZJYupJz3scab3jBHHFF/5
 
 
 actividad 7
+
 https://www.db-fiddle.com/f/b7YsBRQQvvhNfu5rXko6Vf/2
 
 
@@ -59,5 +60,8 @@ https://www.db-fiddle.com/f/b7YsBRQQvvhNfu5rXko6Vf/4
 
 
 
-TRIGGERShttps://www.db-fiddle.com/f/5KPZJYupJz3scab3jBHHFF/6
+TRIGGERS
+
+
+https://www.db-fiddle.com/f/5KPZJYupJz3scab3jBHHFF/6
 
