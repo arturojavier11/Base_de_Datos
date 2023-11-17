@@ -15,6 +15,11 @@ DELETE:Utilizado para eliminar registros de una tabla de una base de datos.
 
 3. Menciona 3 tipos de datos que existen: (valor .85)
 
+char
+
+bit
+
+float
 
 4. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
