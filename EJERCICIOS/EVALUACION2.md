@@ -4,21 +4,28 @@ Objetivo: Demostrar la correcta identificación de los conceptos del lenguaje SQ
 Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
+SELECT: Utilizado para consultar registros de la base de datos que satisfagan un criterio determinado.
 
-2. Menciona 3 tipos de datos que existen: (valor .85)
+INSERT:Utilizado para cargar lotes de datos en la base de datos en una unica operacion.
 
+UPDATE:Utilizado para modificar los valores de los campos y registros especificados.
 
-3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
+DELETE:Utilizado para eliminar registros de una tabla de una base de datos.
 
-4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
-
-5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
-
-
-6. Defina brevemente el significado de las siglas SQL(valor .85)
+3. Menciona 3 tipos de datos que existen: (valor .85)
 
 
-7. Defina brevemente qué es MySQL WorkBench (valor .85)
+4. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
+
+5. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
+
+6. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
+
+
+7. Defina brevemente el significado de las siglas SQL(valor .85)
+
+
+8. Defina brevemente qué es MySQL WorkBench (valor .85)
 
 ## Práctica 5.
 ### Gestores de base de datos
