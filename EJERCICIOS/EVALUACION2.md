@@ -4,6 +4,7 @@ Objetivo: Demostrar la correcta identificación de los conceptos del lenguaje SQ
 Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
+
 SELECT: Utilizado para consultar registros de la base de datos que satisfagan un criterio determinado.
 
 INSERT:Utilizado para cargar lotes de datos en la base de datos en una unica operacion.
