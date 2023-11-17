@@ -23,6 +23,8 @@ float
 
 4. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
+TRUNCATE es más rápido que el comando DELETE para tablas grandes.
+
 5. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
 
 6. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
