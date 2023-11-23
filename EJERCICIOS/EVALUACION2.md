@@ -86,4 +86,4 @@ Base de datos para MySQL
 
 
 
-https://www.db-fiddle.com/f/kmC7xwATbSf8xr5XCZLyBh/1
+https://www.db-fiddle.com/f/7T4QC9QkbKg88yhvo9zCUR/1
