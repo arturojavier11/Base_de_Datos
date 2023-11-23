@@ -83,3 +83,7 @@ Base de datos para MySQL
 ![consulta3](https://github.com/escuelaDeCodigoMargaritaMaza/Base_de_Datos/assets/125502848/dbb2c025-5c21-4975-b05b-7bc41c5c5faf)
 
 ![consulta4](https://github.com/escuelaDeCodigoMargaritaMaza/Base_de_Datos/assets/125502848/27e5aecc-3d07-4ac0-a3a9-24539df89c18)
+
+
+
+https://www.db-fiddle.com/f/kmC7xwATbSf8xr5XCZLyBh/1
